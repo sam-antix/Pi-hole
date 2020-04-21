@@ -1,0 +1,6 @@
+static.doubleclick.net
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+googleads.g.doubleclick.net
+ade.googlesyndication.com
+pagead2.googlesyndication.com
