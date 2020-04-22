@@ -1,3 +1,5 @@
+api.nfl.com
 youtube.com
 www.youtube.com
 googlevideo.com
+www.geoplugin.net
